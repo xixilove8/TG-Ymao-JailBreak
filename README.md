@@ -102,7 +102,7 @@ FILTER_REGION, tag=CN, force-policy=direct, enabled=true
 
 
 # iOS  URL Scheme收集整理
-[比较全系统URL](https://github.com/FifiTheBulldog/ios-settings-urls/blob/master/settings-urls.md)
+[比较全系统URL项目地址](https://github.com/FifiTheBulldog/ios-settings-urls/blob/master/settings-urls.md)
 
 ## 系统类
 - 文件 shareddocuments://
