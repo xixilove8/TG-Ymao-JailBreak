@@ -117,4 +117,15 @@ FILTER_REGION, tag=CN, force-policy=direct, enabled=true
 - swiftgram sg://
 - YouTube youtube://
 - Instagram instagram://
-- 
+
+  ## 导航地图
+- 高德地图 iosamap://
+- 百度地图 baidumap://
+- 腾讯地图 qqmap://
+- 北京交警 zcblbjjj://
+- 滴滴出行 diditaxi://
+- 摩拜单车扫码 mobike://scanqr
+- 订票助手 trainassist://
+- 艺龙旅行 elongIPhone://
+- 携程无线 CtripWireless://
+- 淘宝旅行 taobaotravel://
