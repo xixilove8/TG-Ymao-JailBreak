@@ -99,3 +99,7 @@ udp_whitelist=1-442, 444-65535
 
 FILTER_LAN, tag=LAN, force-policy=direct, enabled=true
 FILTER_REGION, tag=CN, force-policy=direct, enabled=true
+
+
+# iOS  URL Scheme收集整理
+
