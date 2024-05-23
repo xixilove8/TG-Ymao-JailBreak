@@ -102,4 +102,11 @@ FILTER_REGION, tag=CN, force-policy=direct, enabled=true
 
 
 # iOS  URL Scheme收集整理
+额外项目地址 https://github.com/FifiTheBulldog/ios-settings-urls/blob/master/settings-urls.md
 
+## 系统类
+- 文件 shareddocuments://
+- 钱包 shoebox://
+- 捷径 shortcuts://
+- 邮箱 Message://
+- 备忘录 mobilenotes://
