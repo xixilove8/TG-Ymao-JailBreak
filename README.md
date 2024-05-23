@@ -110,3 +110,11 @@ FILTER_REGION, tag=CN, force-policy=direct, enabled=true
 - 捷径 shortcuts://
 - 邮箱 Message://
 - 备忘录 mobilenotes://
+
+- ## 国外社交类
+- Twitter Twitter://
+- Telegram tg://
+- swiftgram sg://
+- YouTube youtube://
+- Instagram instagram://
+- 
