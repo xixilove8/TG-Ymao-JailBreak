@@ -41,6 +41,39 @@ Quantumult X 分流规则。
 - https://whatshub.top/rule/Telegram.list
 - ChatGPT分流
 - https://whatshub.top/rule/ChatGPT.list
-- 配置文件中[filter_remote]下粘贴以下内容
-FILTER_LAN, tag=LAN, force-policy=direct, enabled=true
-FILTER_REGION, tag=CN, force-policy=direct, enabled=true
+
+Quantumult X 重写资源。
+- 酷安净化
+- https://github.com/ddgksf2013/Scripts/raw/master/coolapk.js
+- 百度网盘净化
+- https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/BaiduNetDisk_remove_ads.plugin
+- 阿里云盘净化
+- https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/AliYunDrive_remove_ads.plugin
+- 起点读书净化
+- https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/QiDian_remove_ads.plugin
+- 12406净化
+- https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/12306_remove_ads.plugin
+- 淘宝净化
+- https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/Taobao_remove_ads.plugin
+- 京东净化
+- https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/JD_remove_ads.plugin
+- 微博净化
+- https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/Weibo_remove_ads.plugin
+- YouTube净化
+- https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/YouTube_remove_ads.plugin
+- 百度地图净化
+- https://gist.githubusercontent.com/ddgksf2013/beec132ca0c3570ffa0cf331bce8f82a/raw/baidumap.adblock.conf
+- 高德地图净化
+- https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Amap.conf
+-  Spotify净化
+- https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/Spotify_remove_ads.plugin
+- vvwbo修复主页
+- https://raw.githubusercontent.com/bin64/Scripts/main/QuantumultX/vvebo.js
+- 最美证件照VIP
+- https://raw.githubusercontent.com/WeiGiegie/666/main/zjzxg.js
+- 酷我音乐VIP
+- https://napi.ltd/script/Worker/KuWo.js
+- 读不舍手VIP
+- https://gist.githubusercontent.com/ddgksf2013/dbb1695cd96743eef18f3fac5c6fe227/raw/revenuecat.js
+- 韩小圈VIP
+- https://gist.githubusercontent.com/Yu9191/35453bcc1df1fd21febed34eb078c7e9/raw/Hanxiaoquan.sgmodule
