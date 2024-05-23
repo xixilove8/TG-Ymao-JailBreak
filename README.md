@@ -78,7 +78,7 @@ Quantumult X 重写资源。
 - 韩小圈VIP
 - https://gist.githubusercontent.com/Yu9191/35453bcc1df1fd21febed34eb078c7e9/raw/Hanxiaoquan.sgmodules
 
-- Quantumult X 手动添加。
+Quantumult X 手动添加。
 [general]下面添加
 用于节点延迟测试
 server_check_url= http://www.gstatic.com/generate_204
