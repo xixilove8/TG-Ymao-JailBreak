@@ -81,6 +81,7 @@ Quantumult X 重写资源。
 Quantumult X 手动添加。
 
 [general]下面添加
+
 用于节点延迟测试
 server_check_url= http://www.gstatic.com/generate_204
 #用于节点地址
@@ -93,6 +94,7 @@ resource_parser_url=https://cdn.jsdelivr.net/gh/KOP-XIAO/QuantumultX@master/Scri
 excluded_routes=239.255.255.250/32, 24.105.30.129/32, 185.60.112.157/32, 185.60.112.158/32, 182.162.132.1/32
 udp_whitelist=1-442, 444-65535
 
-- 配置文件中[filter_remote]下粘贴以下内容
+配置文件中[filter_remote]下粘贴以下内容
+
 FILTER_LAN, tag=LAN, force-policy=direct, enabled=true
 FILTER_REGION, tag=CN, force-policy=direct, enabled=true
