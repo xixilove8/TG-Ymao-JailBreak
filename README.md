@@ -76,4 +76,22 @@ Quantumult X 重写资源。
 - 读不舍手VIP
 - https://gist.githubusercontent.com/ddgksf2013/dbb1695cd96743eef18f3fac5c6fe227/raw/revenuecat.js
 - 韩小圈VIP
-- https://gist.githubusercontent.com/Yu9191/35453bcc1df1fd21febed34eb078c7e9/raw/Hanxiaoquan.sgmodule
+- https://gist.githubusercontent.com/Yu9191/35453bcc1df1fd21febed34eb078c7e9/raw/Hanxiaoquan.sgmodules
+
+- Quantumult X 手动添加。
+[general]下面添加
+用于节点延迟测试
+server_check_url= http://www.gstatic.com/generate_204
+#用于节点地址
+geo_location_checker=http://ip-api.com/json/?lang=zh-CN, https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/GeoLocationChecker/QuantumultX/IP-API.js
+服务器测试超时时间 (毫秒)
+server_check_timeout = 3000
+功能强大的解析器，用于引用资源的转换
+resource_parser_url=https://cdn.jsdelivr.net/gh/KOP-XIAO/QuantumultX@master/Scripts/resource-parser.js
+下列路径将不经过QuanX的处理
+excluded_routes=239.255.255.250/32, 24.105.30.129/32, 185.60.112.157/32, 185.60.112.158/32, 182.162.132.1/32
+udp_whitelist=1-442, 444-65535
+
+- 配置文件中[filter_remote]下粘贴以下内容
+FILTER_LAN, tag=LAN, force-policy=direct, enabled=true
+FILTER_REGION, tag=CN, force-policy=direct, enabled=true
