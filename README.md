@@ -18,8 +18,13 @@ Quantumult X 自带 3 种策略。
 
 #### Quantumult X 分流规则。
 - Spotify分流 
-- https://whatshub.top/rule/Spotify.list
-- Copilot分流 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Microsoft/Microsoft.list
+</span>
+
+    https://whatshub.top/rule/Spotify.list
+- Copilot分流
+</span>
+
+    https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Microsoft/Microsoft.list
 - 国际网络分流
 - https://raw.githubusercontent.com/kjfx/QuantumultX/main/country/filter.list
 - Twitter分流
