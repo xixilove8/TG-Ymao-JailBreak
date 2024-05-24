@@ -44,7 +44,7 @@
     FILTER_REGION, tag=CN, force-
     policy=direct, enabled=true
 
-## Quantumult X 分流规则。
+## 一、Quantumult X 分流规则。
 - Spotify分流 
 </span>
 
@@ -98,7 +98,7 @@
 
     https://whatshub.top/rule/ChatGPT.list
 
-## Quantumult X 重写资源。
+## 二、Quantumult X 重写资源。
 - 酷安净化
 </span>
 
@@ -169,8 +169,8 @@
     https://gist.githubusercontent.com/Yu9191/35453bcc1df1fd21febed34eb078c7e9/raw/Hanxiaoquan.sgmodules
 
 
-# 个人收集Telegram频道
-Quantumult X频道
+# 一、个人收集Telegram频道
+## 1、Quantumult X频道
 </span>
 
     1、叮当猫iOS资源脚本分享 
@@ -194,7 +194,7 @@ Quantumult X频道
     7、Cuttlefish自留地
     https://t.me/ddgksf2021
 
-TrollStore系列频道
+## 2、TrollStore系列频道
 </span>
 
     1、巨魔商店pro 交流群组
@@ -227,7 +227,7 @@ TrollStore系列频道
     10、酷卡iOS破解软件
     https://t.me/gekuGou
 
-iOS越狱插件
+## 3、iOS越狱插件
 </span>
 
     1、懒猫插件交流
