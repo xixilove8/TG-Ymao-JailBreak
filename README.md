@@ -168,6 +168,100 @@ Quantumult X 自带 3 种策略。
     FILTER_REGION, tag=CN, force-
     policy=direct, enabled=true
 
+# 个人收集Telegram频道
+Quantumult X频道
+</span>
+
+    1、叮当猫iOS资源脚本分享 
+    https://t.me/chxm1023
+    
+    2、QuantumultXjs
+    https://t.me/GieGie777
+    
+    3、可莉日常  主要loon脚本
+    https://t.me/ibilibili
+    
+    4、Surng&loon&QX脚本收集
+    https://t.me/NobyDa
+   
+    5、小帽集团脚本频道
+    https://t.me/XiaoMaoScript
+    
+    6、广告必须死
+    https://t.me/Aa28413761
+    
+    7、Cuttlefish自留地
+    https://t.me/ddgksf2021
+
+TrollStore系列频道
+</span>
+
+    1、巨魔商店pro 交流群组
+    https://t.me/TrollStorePro
+   
+    2、巨魔商店 频道
+    https://t.me/iOS_TrollStore
+   
+    3、秋名山巨魔俱乐部
+    https://t.me/ae86_ios
+   
+    4、浥轻尘&黑科技&软件脚本破解库
+    https://t.me/yqc_123
+   
+    5、iOS宝藏
+    https://t.me/iosrxwy
+   
+    6、登拜科技
+    https://t.me/dengbai
+   
+    7、JB交流 巨魔砸壳作者
+    https://t.me/gblwjb
+   
+    8-MacKed Channel 破解iOS和mac大佬
+    https://t.me/macked_channel
+   
+    9、小果子
+    https://t.me/iosapper
+   
+    10、酷卡iOS破解软件
+    https://t.me/gekuGou
+
+iOS越狱插件
+</span>
+
+    1、懒猫插件交流
+    https://t.me/maogroup
+   
+    2、懒猫的频道
+    https://t.me/lanmaoshare
+   
+    3、WeChat｜微信｜插件
+    https://t.me/wechatshare
+   
+    4、黄白｜助手｜插件频道
+    https://t.me/HbHelper
+    
+    5、PKC皮卡车
+    https://t.me/TopStyle2021
+   
+    6、刀刀源
+    https://t.me/ae86_hk
+    
+    7、Netskao 曾经的狗哥
+    https://t.me/IPAPatch
+   
+    8、SWIGN越狱交流群｜新晋作者
+    https://t.me/abox1993
+
+一些云盘影视频道
+</span>
+
+    1、影视分享 
+    https://t.me/movies_metamm
+   
+    2、阿里云盘发布频道
+    https://t.me/Aliyundrive_Share_Channel
+
 
 # iOS  URL Scheme收集整理
 比较全的系统URL项目地址
@@ -666,7 +760,7 @@ PPTV
 
     qmkege://
 
-### 金融类
+## 金融类
 招商银行 
 </span>
 
@@ -708,7 +802,7 @@ PPTV
 
     upwallet://rn/rnhtmlridingcode
 
-### 一些游戏类
+## 一些游戏类
 王者荣耀
 </span>
 
