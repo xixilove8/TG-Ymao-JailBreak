@@ -1,5 +1,5 @@
 # Quantumult X  自用资源汇总
-#### Quantumult X 策略组是什么？
+## Quantumult X 策略组是什么？
 - 策略组可以实现 自动切换节点、节点筛选、是否走代理等。
 - 策略组 需要配合 分流规则 使用。
 - 策略组 可包含多个节点和策略组。
@@ -9,14 +9,14 @@ Quantumult X 自带 3 种策略。
 - DIRECT（直连）
 - REJECT（拒绝）
 
-#### Quantumult X 策略组类型。
+## Quantumult X 策略组类型。
 - static 静态策略-手动选择节点
 - available 健康检查-自动选择节点，从第一个节点开始检查是否可用，直到选择可用节点。
 - round-robin 负载均衡-轮询调度，轮流调用节点使用，IP可能会一直变。
 - dest-hash 随即调整负载均衡
 - url-latency-benchmark 自动测速-自动选择延迟低的节点
 
-### Quantumult X 分流规则。
+## Quantumult X 分流规则。
 - Spotify分流 
 </span>
 
@@ -70,7 +70,7 @@ Quantumult X 自带 3 种策略。
 
     https://whatshub.top/rule/ChatGPT.list
 
-### Quantumult X 重写资源。
+## Quantumult X 重写资源。
 - 酷安净化
 </span>
 
@@ -140,7 +140,7 @@ Quantumult X 自带 3 种策略。
 
     https://gist.githubusercontent.com/Yu9191/35453bcc1df1fd21febed34eb078c7e9/raw/Hanxiaoquan.sgmodules
 
-##### Quantumult X 手动添加。
+## Quantumult X 手动添加。
 
 在配置文件中的[general]下面添加以下内容
 
@@ -283,6 +283,41 @@ Instagram
 </span>
 
     alipayqr://platformapi/startapp?saId=10000007
+支付宝记账
+</span>
+
+    alipay://platformapi/startapp？appId=20000168
+支付宝滴滴
+</span>
+
+    alipay://platformapi/startapp?appId=20000778
+支付宝蚂蚁森林 
+</span>
+
+    alipay://platformapi/startapp?appId=60000002
+支付宝转账 
+</span>
+
+    alipayqr://platformapi/startapp?saId=20000116
+支付宝手机充值 </span>
+
+    alipayqr://platformapi/startapp?saId=10000003
+支付宝口令红包 
+</span>
+
+    alipayqr://platformapi/startapp?saId=88886666
+支付宝提现 
+</span>
+
+    alipayqr://platformapi/startapp？saId=20000033
+支付宝余额宝 
+</span>
+
+    alipayqr://platformapi/startapp？saId=20000032
+支付宝蚂蚁庄园 
+</span>
+
+    alipays://platformapi/startap
 京东 
 </span>
 
@@ -303,4 +338,214 @@ Instagram
 </span>
 
     vipshop://
-    
+天猫 
+</span>
+
+    tmall://
+旺旺卖家版
+</span>
+
+    wangwangseller://
+
+## 工具类
+
+Cerulean工具箱 
+</span>
+
+    Cerulean://
+钱迹
+</span>
+
+    qianji://
+Picsew 
+</span>
+
+    picsew://
+Picsew打开最近长截图 
+</span>
+
+    picsew://recent
+我的标记 
+</span>
+
+    clover-imark://
+抓图猫 
+</span>
+
+    imagecat://
+Piiic 2 
+</span>
+
+    wb1934889315://
+Alook浏览器 
+</span>
+
+    Alook://
+115云盘 
+</span>
+
+    wb1307639798://
+123云盘 
+</span>
+
+    wx5d164fd6498c6e80://
+米家
+</span>
+
+    mihome://
+uc浏览器 
+</span>
+
+    ucbrowser://
+搜狗输入法 
+</span>
+
+    com.sogou.sogouinput://
+圈子账本 
+</span>
+
+    qzzb://
+我的密码
+</span>
+
+    findmykey://
+我查查 
+</span>
+
+    wcc://
+
+名片全能王 
+</span>
+
+    camcard://
+Evernote 
+</span>
+
+    evernote://
+迅雷 
+</span>
+
+    thunder://
+天气通 
+</span>
+
+    sinaweather://
+墨迹天气 
+</span>
+
+    rm434209233MojiWeather://
+同花顺 
+</span>
+
+    amihexin://
+
+
+
+## 腾讯系列
+
+腾讯安全中心
+</span>
+
+    qmtoken://
+腾讯手机管家 
+</span>
+
+    mqqsecure://
+腾讯微云 
+</span>
+
+    weiyun://
+微信读书 
+</span>
+
+    weread://
+腾讯企业邮箱 
+</span>
+
+    qqbizmailDistribute2://
+Chrome 
+</span>
+
+    googlechrome://
+QQ邮箱 
+</span>
+
+    qqquicklogin://
+QQ浏览器 
+</span>
+
+    mqqbrowser://
+
+QQ同步助手 
+</span>
+
+    qqpim://
+
+腾讯企业邮箱 
+</span>
+
+    qqbizmailDistribute2://
+腾讯手机管家 
+</span>
+
+    mqqsecure://
+
+## 网易系列
+
+网易严选 
+</span>
+
+    yanxuan://
+有道词典 
+</span>
+
+    yddict://
+网易邮箱 
+</span>
+
+    neteasemail://
+网易公开课 
+</span>
+
+    ntesopen://
+网易将军令
+</span>
+
+    netease-mkey://
+有道词典 
+</span>
+
+    yddictproapp://
+有道翻译官 
+</span>
+
+    ydtranslator://
+
+## 百度系列
+
+百度云
+</span>
+
+    baiduyun:// 
+百度输入法 
+</span>
+
+    BaiduIMShop://
+百度阅读 
+</span>
+
+    bdbook://
+手机百度 
+</span>
+
+    bdboxiosqrcode://
+百度视频 
+</span>
+
+    bdviphapp://
+百度浏览器 
+</span>
+
+    bdbrowser://
+
+
