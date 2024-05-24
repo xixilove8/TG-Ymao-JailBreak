@@ -16,7 +16,7 @@ Quantumult X 自带 3 种策略。
 - dest-hash 随即调整负载均衡
 - url-latency-benchmark 自动测速-自动选择延迟低的节点
 
-#### Quantumult X 分流规则。
+### Quantumult X 分流规则。
 - Spotify分流 
 </span>
 
@@ -70,7 +70,7 @@ Quantumult X 自带 3 种策略。
 
     https://whatshub.top/rule/ChatGPT.list
 
-#### Quantumult X 重写资源。
+### Quantumult X 重写资源。
 - 酷安净化
 </span>
 
@@ -140,7 +140,7 @@ Quantumult X 自带 3 种策略。
 
     https://gist.githubusercontent.com/Yu9191/35453bcc1df1fd21febed34eb078c7e9/raw/Hanxiaoquan.sgmodules
 
-#### Quantumult X 手动添加。
+##### Quantumult X 手动添加。
 
 在配置文件中的[general]下面添加以下内容
 
