@@ -26,63 +26,119 @@ Quantumult X 自带 3 种策略。
 
     https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Microsoft/Microsoft.list
 - 国际网络分流
-- https://raw.githubusercontent.com/kjfx/QuantumultX/main/country/filter.list
+</span>
+
+    https://raw.githubusercontent.com/kjfx/QuantumultX/main/country/filter.list
 - Twitter分流
-- https://whatshub.top/rule/Twitter.list
+</span>
+
+    https://whatshub.top/rule/Twitter.list
 - 国内媒体分流
-- https://whatshub.top/rule/ChinaMedia.list
+</span>
+
+    https://whatshub.top/rule/ChinaMedia.list
 - YouTube Music分流
-- https://whatshub.top/rule/YouTubeMusic.list
+</span>
+
+    https://whatshub.top/rule/YouTubeMusic.list
 - YouTube分流
-- https://whatshub.top/rule/YouTube.list
+</span>
+
+    https://whatshub.top/rule/YouTube.list
 - 抖音IP分流
-- https://raw.githubusercontent.com/im-dashan/proxy-plugin/main/loon/DouYin.list
+</span>
+
+    https://raw.githubusercontent.com/im-dashan/proxy-plugin/main/loon/DouYin.list
 - 抖音IP分流最新群友给的
-- https://whatshub.top/rule/DouYin.list
+</span>
+
+    https://whatshub.top/rule/DouYin.list
 - 微博分流
-- https://whatshub.top/rule/Weibo.list
+</span>
+
+    https://whatshub.top/rule/Weibo.list
 - 国内直连
-- https://whatshub.top/rule/China.list
+</span>
+
+    https://whatshub.top/rule/China.list
 - Telegram分流
-- https://whatshub.top/rule/Telegram.list
+</span>
+
+    https://whatshub.top/rule/Telegram.list
 - ChatGPT分流
-- https://whatshub.top/rule/ChatGPT.list
+</span>
+
+    https://whatshub.top/rule/ChatGPT.list
 
 #### Quantumult X 重写资源。
 - 酷安净化
-- https://github.com/ddgksf2013/Scripts/raw/master/coolapk.js
+</span>
+
+    https://github.com/ddgksf2013/Scripts/raw/master/coolapk.js
 - 百度网盘净化
-- https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/BaiduNetDisk_remove_ads.plugin
+</span>
+
+    https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/BaiduNetDisk_remove_ads.plugin
 - 阿里云盘净化
-- https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/AliYunDrive_remove_ads.plugin
+</span>
+
+    https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/AliYunDrive_remove_ads.plugin
 - 起点读书净化
-- https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/QiDian_remove_ads.plugin
+</span>
+
+    https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/QiDian_remove_ads.plugin
 - 12406净化
-- https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/12306_remove_ads.plugin
+</span>
+
+    https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/12306_remove_ads.plugin
 - 淘宝净化
-- https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/Taobao_remove_ads.plugin
+</span>
+
+    https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/Taobao_remove_ads.plugin
 - 京东净化
-- https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/JD_remove_ads.plugin
+</span>
+
+    https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/JD_remove_ads.plugin
 - 微博净化
-- https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/Weibo_remove_ads.plugin
+</span>
+
+    https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/Weibo_remove_ads.plugin
 - YouTube净化
-- https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/YouTube_remove_ads.plugin
+</span>
+
+    https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/YouTube_remove_ads.plugin
 - 百度地图净化
-- https://gist.githubusercontent.com/ddgksf2013/beec132ca0c3570ffa0cf331bce8f82a/raw/baidumap.adblock.conf
+</span>
+
+    https://gist.githubusercontent.com/ddgksf2013/beec132ca0c3570ffa0cf331bce8f82a/raw/baidumap.adblock.conf
 - 高德地图净化
-- https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Amap.conf
+</span>
+
+    https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Amap.conf
 -  Spotify净化
-- https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/Spotify_remove_ads.plugin
+</span>
+
+    https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/Spotify_remove_ads.plugin
 - vvwbo修复主页
-- https://raw.githubusercontent.com/bin64/Scripts/main/QuantumultX/vvebo.js
+</span>
+
+    https://raw.githubusercontent.com/bin64/Scripts/main/QuantumultX/vvebo.js
 - 最美证件照VIP
-- https://raw.githubusercontent.com/WeiGiegie/666/main/zjzxg.js
+</span>
+
+    https://raw.githubusercontent.com/WeiGiegie/666/main/zjzxg.js
 - 酷我音乐VIP
-- https://napi.ltd/script/Worker/KuWo.js
+</span>
+
+    https://napi.ltd/script/Worker/KuWo.js
 - 读不舍手VIP
-- https://gist.githubusercontent.com/ddgksf2013/dbb1695cd96743eef18f3fac5c6fe227/raw/revenuecat.js
+</span>
+
+    https://gist.githubusercontent.com/ddgksf2013/dbb1695cd96743eef18f3fac5c6fe227/raw/revenuecat.js
 - 韩小圈VIP
-- https://gist.githubusercontent.com/Yu9191/35453bcc1df1fd21febed34eb078c7e9/raw/Hanxiaoquan.sgmodules
+</span>
+
+    https://gist.githubusercontent.com/Yu9191/35453bcc1df1fd21febed34eb078c7e9/raw/Hanxiaoquan.sgmodules
 
 #### Quantumult X 手动添加。
 
