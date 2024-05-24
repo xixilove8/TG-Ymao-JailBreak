@@ -1,4 +1,5 @@
 # 一、Quantumult X  自用资源汇总
+## 1、Quantumult X 一些配置介绍。
 **1、Quantumult X 策略组是什么？**
 - 策略组可以实现 自动切换节点、节点筛选、是否走代理等。
 - 策略组 需要配合 分流规则 使用。
@@ -44,7 +45,7 @@
     FILTER_REGION, tag=CN, force-
     policy=direct, enabled=true
 
-## 1、Quantumult X 分流规则。
+## 2、Quantumult X 分流规则。
 - Spotify分流 
 </span>
 
@@ -98,7 +99,7 @@
 
     https://whatshub.top/rule/ChatGPT.list
 
-## 2、Quantumult X 重写资源。
+## 3、Quantumult X 重写资源。
 - 酷安净化
 </span>
 
