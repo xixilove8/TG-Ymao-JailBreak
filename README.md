@@ -4,17 +4,45 @@
 - 策略组 需要配合 分流规则 使用。
 - 策略组 可包含多个节点和策略组。
 
-Quantumult X 自带 3 种策略。
+**2、Quantumult X 自带 3 种策略。**
 - PROXY （代理）
 - DIRECT（直连）
 - REJECT（拒绝）
 
-**2、Quantumult X 策略组类型。**
+**3、Quantumult X 策略组类型。**
 - static 静态策略-手动选择节点
 - available 健康检查-自动选择节点，从第一个节点开始检查是否可用，直到选择可用节点。
 - round-robin 负载均衡-轮询调度，轮流调用节点使用，IP可能会一直变。
 - dest-hash 随即调整负载均衡
 - url-latency-benchmark 自动测速-自动选择延迟低的节点
+
+**4、Quantumult X 手动添加。**
+
+在配置文件中的[general]下面添加以下内容
+
+</span>
+
+    用于节点延迟测试
+    server_check_url=
+    http://www.gstatic.com/generate_204
+    #用于节点测试geo_location_checker=http://ip-api.com/json/?lang=zh-CN, https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/GeoLocationChecker/QuantumultX/IP-API.js
+    服务器测试超时时间 (毫秒)
+    server_check_timeout = 3000
+    功能强大的解析器，用于引用资源的转换resource_parser_url=https://cdn.jsdelivr.net/gh/KOP-XIAO/QuantumultX@master/Scripts/resource-parser.js
+    下列路径将不经过QuanX的处理
+    excluded_routes=239.255.255.250/32, 
+    24.105.30.129/32, 185.60.112.157/32, 
+    185.60.112.158/32, 182.162.132.1/32
+    udp_whitelist=1-442, 444-65535
+
+在配置文件中的[filter_remote]下粘贴以下内容
+
+</span>
+
+    FILTER_LAN, tag=LAN, force-
+    policy=direct, enabled=true
+    FILTER_REGION, tag=CN, force-
+    policy=direct, enabled=true
 
 ## Quantumult X 分流规则。
 - Spotify分流 
@@ -140,33 +168,6 @@ Quantumult X 自带 3 种策略。
 
     https://gist.githubusercontent.com/Yu9191/35453bcc1df1fd21febed34eb078c7e9/raw/Hanxiaoquan.sgmodules
 
-## Quantumult X 手动添加。
-
-在配置文件中的[general]下面添加以下内容
-
-</span>
-
-    用于节点延迟测试
-    server_check_url=
-    http://www.gstatic.com/generate_204
-    #用于节点测试geo_location_checker=http://ip-api.com/json/?lang=zh-CN, https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/GeoLocationChecker/QuantumultX/IP-API.js
-    服务器测试超时时间 (毫秒)
-    server_check_timeout = 3000
-    功能强大的解析器，用于引用资源的转换resource_parser_url=https://cdn.jsdelivr.net/gh/KOP-XIAO/QuantumultX@master/Scripts/resource-parser.js
-    下列路径将不经过QuanX的处理
-    excluded_routes=239.255.255.250/32, 
-    24.105.30.129/32, 185.60.112.157/32, 
-    185.60.112.158/32, 182.162.132.1/32
-    udp_whitelist=1-442, 444-65535
-
-在配置文件中的[filter_remote]下粘贴以下内容
-
-</span>
-
-    FILTER_LAN, tag=LAN, force-
-    policy=direct, enabled=true
-    FILTER_REGION, tag=CN, force-
-    policy=direct, enabled=true
 
 # 个人收集Telegram频道
 Quantumult X频道
