@@ -144,22 +144,29 @@ Quantumult X 自带 3 种策略。
 
 在配置文件中的[general]下面添加以下内容
 
-用于节点延迟测试
-server_check_url= http://www.gstatic.com/generate_204
-#用于节点地址
-geo_location_checker=http://ip-api.com/json/?lang=zh-CN, https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/GeoLocationChecker/QuantumultX/IP-API.js
-服务器测试超时时间 (毫秒)
-server_check_timeout = 3000
-功能强大的解析器，用于引用资源的转换
-resource_parser_url=https://cdn.jsdelivr.net/gh/KOP-XIAO/QuantumultX@master/Scripts/resource-parser.js
-下列路径将不经过QuanX的处理
-excluded_routes=239.255.255.250/32, 24.105.30.129/32, 185.60.112.157/32, 185.60.112.158/32, 182.162.132.1/32
-udp_whitelist=1-442, 444-65535
+</span>
+
+    用于节点延迟测试
+    server_check_url=
+    http://www.gstatic.com/generate_204
+    #用于节点测试geo_location_checker=http://ip-api.com/json/?lang=zh-CN, https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/GeoLocationChecker/QuantumultX/IP-API.js
+    服务器测试超时时间 (毫秒)
+    server_check_timeout = 3000
+    功能强大的解析器，用于引用资源的转换resource_parser_url=https://cdn.jsdelivr.net/gh/KOP-XIAO/QuantumultX@master/Scripts/resource-parser.js
+    下列路径将不经过QuanX的处理
+    excluded_routes=239.255.255.250/32, 
+    24.105.30.129/32, 185.60.112.157/32, 
+    185.60.112.158/32, 182.162.132.1/32
+    udp_whitelist=1-442, 444-65535
 
 在配置文件中的[filter_remote]下粘贴以下内容
 
-FILTER_LAN, tag=LAN, force-policy=direct, enabled=true
-FILTER_REGION, tag=CN, force-policy=direct, enabled=true
+</span>
+
+    FILTER_LAN, tag=LAN, force-
+    policy=direct, enabled=true
+    FILTER_REGION, tag=CN, force-
+    policy=direct, enabled=true
 
 
 # iOS  URL Scheme收集整理
