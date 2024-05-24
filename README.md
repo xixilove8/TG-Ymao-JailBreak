@@ -176,27 +176,130 @@ Quantumult X 自带 3 种策略。
     https://github.com/FifiTheBulldog/ios-settings-urls/blob/master/settings-urls.md
 
 ## 系统类
-- 文件 shareddocuments://
-- 钱包 shoebox://
-- 捷径 shortcuts://
-- 邮箱 Message://
-- 备忘录 mobilenotes://
+文件
+</span>
+
+    shareddocuments://
+钱包 
+</span>
+
+    shoebox://
+捷径 
+</span>
+
+    shortcuts://
+邮箱 
+</span>
+
+    Message://
+备忘录 
+</span>
+
+    mobilenotes://
 
 - ## 国外社交类
-- Twitter Twitter://
-- Telegram tg://
-- swiftgram sg://
-- YouTube youtube://
-- Instagram instagram://
+推特
+</span>
+
+    Twitter://
+Telegram 
+</span>
+
+    tg://
+swiftgram 
+</span>
+
+    sg://
+YouTube 
+</span>
+
+    youtube://
+Instagram 
+</span>
+
+    instagram://
 
   ## 导航地图
-- 高德地图 iosamap://
-- 百度地图 baidumap://
-- 腾讯地图 qqmap://
-- 北京交警 zcblbjjj://
-- 滴滴出行 diditaxi://
-- 摩拜单车扫码 mobike://scanqr
-- 订票助手 trainassist://
-- 艺龙旅行 elongIPhone://
-- 携程无线 CtripWireless://
-- 淘宝旅行 taobaotravel://
+高德地图 
+</span>
+
+    iosamap://
+百度地图 
+</span>
+
+    baidumap://
+腾讯地图 
+</span>
+
+    qqmap://
+北京交警 
+</span>
+
+    zcblbjjj://
+滴滴出行 
+</span>
+
+    diditaxi://
+摩拜单车扫码 
+</span>
+
+    mobike://scanqr
+订票助手 
+</span>
+
+    trainassist://
+艺龙旅行 
+</span>
+
+    elongIPhone://
+携程无线 
+</span>
+
+    CtripWireless://
+淘宝旅行 
+</span>
+    
+    taobaotravel://
+
+##购物篇
+淘宝 
+</span>
+
+    taobao://
+淘宝(搜索)
+</span>
+
+    taobao://s.taobao.com/?q=裙子
+支付宝 
+</span>
+
+    alipay://
+支付宝(付款)
+</span>
+
+    alipayqr://platformapi/startapp?saId=20000056
+支付宝(扫一扫)
+</span>
+
+    alipayqr://platformapi/startapp?saId=10000007
+京东 
+</span>
+
+    openapp.jdmoble://
+美团 
+</span>
+
+    imeituan://
+大众点评 
+</span>
+
+    dianping://
+1号店 
+</span>
+
+    yhd://
+唯品会 
+</span>
+
+    vipshop://
+    
