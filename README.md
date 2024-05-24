@@ -19,10 +19,26 @@
 
     eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOltdLCJzdWIiOiIxNzE1MDQxNTc0NzIxR0xCODduM3o4RmQ5NnBuVXNPbDhNViIsInVzZXJfbmFtZSI6Ijg5ODcyNjM0MDg4Nzg3MzUzNjAiLCJsb2dpY19pZCI6MzYwNTEwMDA2NzExNTI5NDcyLCJpc3MiOiJraHQudGFpcGluZyIsInNjb3BlIjpbXSwiZ3JhbnRfdHlwZSI6InBhc3N3b3JkIiwianRpIjoiMTcxNTA0MTU4NjQ1OEM5WGhTb1cyTk1IY1R6Y3l1TzNNeVoiLCJhZGRpdGlvbmFsSW5mbyI6e30sImlhdCI6MTcxNTA0MTU4NiwiZXhwIjoxNzc5ODQxNTg2LCJhdXRob3JpdGllcyI6W10sImNsaWVudF9pZCI6IlRQVF9BUFAiLCJyb2xlX3R5cGVzIjoiQyJ9.GO9D0gmY4H7jlcfOdB72K3_KKBRtCQBFlNJV4E6luVHSu6Yxh5bUtFXwSwfoQqKplpQkwzwqliN8Vc6Xsgq80Hp6-YM28P2SY0XzIIkl0Xz84BWhsLVhwGI9uQ5cYxt4yb9_cA_-0kAFx2NCo1nqrpjTKsC4jxT6PTdfwRWieqc
 
+3、饿了么app
 
+</span>
 
+    找到抓包域名为 nt2.exe.me 进去第一个点进去
+    挨个复制
+</span>
 
+    und=
+    cookie2=***
+    USERID***
+    SID=***结尾如有==记得删掉
+    wxUid=UID***
+然后把以上内容拼接在一起。
+再找到Wxpusher消息推送平台公众号进去-点击我的-获取UID
 
+类似以下格式
+</span>
+
+    unb=2211211076533;cookie2=2fae838adc772d1caf911b3cc9aaa887;USERID=1000172475694;SID=MmZhZTgzOGFkYzc3MmQxY2FmOTExYjNjYzlhYWE4ODelp6EYRxJUWXhqUrSh5xVH;wxUid=UID_FLRReNeAs1fN1SxN19bcYyPoAgVX;
 
 # 一、Quantumult X  自用资源汇总
 ## 1、Quantumult X 一些配置介绍。
