@@ -442,7 +442,25 @@ Evernote
 
 
 ## 腾讯系列
+QQ
+</span>
 
+   mqq://
+QQ音乐 
+</span>
+
+    qqmusic://
+QQ音乐最近播放 
+</span>
+
+    qqmusic://today?mid=31&k1=2
+QQ音乐本地播放 
+</span>
+
+    qqmusic://today?mid=31&k1=3
+QQ音乐听歌识曲 </span>
+
+    qqmusic://http://qq.com/ui/recognize
 腾讯安全中心
 </span>
 
@@ -451,6 +469,14 @@ Evernote
 </span>
 
     mqqsecure://
+腾讯视频 
+</span>
+
+    tenvideo://
+腾讯新闻 
+</span>
+
+    qqnews://
 腾讯微云 
 </span>
 
@@ -539,6 +565,10 @@ QQ同步助手
 </span>
 
     bdboxiosqrcode://
+百度音乐 
+</span>
+
+    baidumusic://
 百度视频 
 </span>
 
@@ -547,5 +577,166 @@ QQ同步助手
 </span>
 
     bdbrowser://
+## 影音类
+酷我音乐 </span>
+
+    com.kuwo.kwmusic.kwmusicForKwsing://
+搜狐视频 
+</span>
+
+    sohuvideo-iphone://
+虾米音乐 
+</span>
+
+    xiami://
+抖音 
+</span>
+
+    wb1462309810://
+快手 
+</span>
+
+    gifshow://
+火山小视频 
+</span>
+
+    wb1462309810://
+优酷 
+</span>
+
+    youku://
+爱奇艺视频 
+</span>
+
+    qiyi-iphone://
+PPTV 
+</span>
+
+    pptv://
+今日头条 
+</span>
+
+    snssdk141://
+哔哩哔哩动画
+</span>
+
+    bilibili://
+优酷 
+</span>
+
+    youku://
+搜狐视频 
+</span>
+
+    sohuvideo://
+掌阅iReader
+</span>
+
+    iReader://
+网易新闻
+</span>
+
+    newsapp://
+网易云音乐
+</span>
+
+    orpheus://
+网易云(识别音乐)
+</span>
+
+    orpheus://recognize
+网易云（本地音乐）
+</span>
+
+    orpheus://download
+网易云（私人FM）
+</span>
+
+    orpheus://radio
+网易云（我的喜欢）
+</span>
+
+    orpheus://playlist/32778108
+豆瓣FM 
+</span>
+
+    doubanradio://
+全民K歌 
+</span>
+
+    qmkege://
+
+### 金融类
+招商银行 
+</span>
+
+    cmbmobilebank://
+建设银行
+</span>
+
+    wx2654d9155d70a468://
+工商银行 
+</span>
+
+    com.icbc.iphoneclient://
+中国银行 
+</span>
+
+    BOCMBCIZF://
+农业银行 
+</span>
+
+    bankabc://
+邮政银行 
+</span>
+
+    wb1424286189://
+浦发银行 
+</span>
+
+    wx1cb534bb13ba3dbd://
+云闪付扫一扫
+</span>
+
+    upwallet://native/scanCode
+云闪付付款码 
+</span>
+
+    upwallet://pay
+云闪付乘车码 
+</span>
+
+    upwallet://rn/rnhtmlridingcode
+
+### 一些游戏类
+王者荣耀
+</span>
+
+    tencentlaunch1104466820://
+绝地求生 刺激战场 
+</span>
+
+    itlogin-JSMahjong://
+海岛奇兵 
+</span>
+
+    app://gridlens://
+天天飞车 
+</span>
+
+    tencent100695850://
+天天星连萌 
+</span>
+
+    tencent100689806://
+天天爱消除 
+</span>
+
+    tencent100689805://
+天天酷跑 
+</span>
+
+    tencent100692648://
+
 
 
