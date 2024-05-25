@@ -100,6 +100,14 @@
     https://whatshub.top/rule/ChatGPT.list
 
 ## 3、Quantumult X 重写资源。
+- 知乎净化
+</span>
+
+    https://gist.githubusercontent.com/ddgksf2013/d43179d848586d561dbb968dee93bae8/raw/zhihu.js
+- 什么值得买净化
+</span>
+
+    https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/smzdm_remove_ads.plugin
 - 酷安净化
 </span>
 
