@@ -323,7 +323,8 @@ $\color{#F56C6C}{如果SID=***结尾有==记得删掉}$ <br>
 
     https://github.com/FifiTheBulldog/ios-settings-urls/blob/master/settings-urls.md
 
-## 系统类
+<details>
+<summary>系统URL</summary>
 文件
 </span>
 
@@ -345,7 +346,9 @@ $\color{#F56C6C}{如果SID=***结尾有==记得删掉}$ <br>
 
     mobilenotes://
 
-- ## 国外社交类
+</details>
+<details>
+<summary>国外社交</summary>
 推特
 </span>
 
@@ -367,7 +370,9 @@ Instagram
 
     instagram://
 
-  ## 导航地图
+</details>
+<details>
+<summary>导航地图</summary>
 高德地图 
 </span>
 
@@ -409,7 +414,9 @@ Instagram
     
     taobaotravel://
 
-## 购物篇
+</details>
+<details>
+<summary>购物篇</summary>
 
 淘宝 
 </span>
@@ -495,7 +502,9 @@ Instagram
 
     wangwangseller://
 
-## 工具类
+</details>
+<details>
+<summary>工具类</summary>
 
 Cerulean工具箱 
 </span>
@@ -588,8 +597,9 @@ Evernote
     amihexin://
 
 
-
-## 腾讯系列
+</details>
+<details>
+<summary>腾讯系列</summary>
 QQ
 </span>
 
@@ -664,7 +674,9 @@ QQ同步助手
 
     mqqsecure://
 
-## 网易系列
+</details>
+<details>
+<summary>网易系列</summary>
 
 网易严选 
 </span>
@@ -694,8 +706,9 @@ QQ同步助手
 </span>
 
     ydtranslator://
-
-## 百度系列
+</details>
+<details>
+<summary>百度系列</summary>
 
 百度云
 </span>
@@ -725,7 +738,9 @@ QQ同步助手
 </span>
 
     bdbrowser://
-## 影音类
+</details>
+<details>
+<summary>影音类</summary>
 酷我音乐 </span>
 
     com.kuwo.kwmusic.kwmusicForKwsing://
@@ -814,7 +829,9 @@ PPTV
 
     qmkege://
 
-## 金融类
+</details>
+<details>
+<summary>银行系列</summary>
 招商银行 
 </span>
 
@@ -856,7 +873,9 @@ PPTV
 
     upwallet://rn/rnhtmlridingcode
 
-## 一些游戏类
+</details>
+<details>
+<summary>游戏系列</summary>
 王者荣耀
 </span>
 
@@ -885,6 +904,6 @@ PPTV
 </span>
 
     tencent100692648://
-
+</details>
 
 
