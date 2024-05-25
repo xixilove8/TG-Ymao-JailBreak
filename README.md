@@ -1,5 +1,10 @@
-一些github写作技巧
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
 
+一些github写作技巧
+书写教学项目
+</span>
+
+    https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#supported-color-models
 1、插入代码行，复制下列代码
 </span>
 
@@ -15,13 +20,13 @@
     </span>
 
     </details>
-3、添加士例
+3、添加引用
 </span>
 
     ---
     >
 ---
->示例效果展示，具体是这个样子的，
+>引用效果展示，具体是这个样子的，
 # 一、Quantumult X  自用资源汇总
 ## 1、Quantumult X 一些配置介绍。
 **1、Quantumult X 策略组是什么？**
