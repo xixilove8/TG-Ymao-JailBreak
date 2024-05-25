@@ -15,6 +15,13 @@
     </span>
 
     </details>
+3、添加士例
+</span>
+
+    ---
+    >
+---
+>示例效果展示，具体是这个样子的，
 # 一、Quantumult X  自用资源汇总
 ## 1、Quantumult X 一些配置介绍。
 **1、Quantumult X 策略组是什么？**
