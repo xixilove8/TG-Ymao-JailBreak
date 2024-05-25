@@ -1,5 +1,9 @@
 
 # 一、Quantumult X  自用资源汇总
+---
+[一个资源比较全的大佬Quantumult X资源库](https://github.com/deezertidal/QuantumultX-Rewrite?tab=readme-ov-file)
+
+---
 ## 1、Quantumult X 一些配置介绍。
 **1、Quantumult X 策略组是什么？**
 - 策略组可以实现 自动切换节点、节点筛选、是否走代理等。
