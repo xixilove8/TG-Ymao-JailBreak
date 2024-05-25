@@ -1,26 +1,26 @@
-github书写教学项目
+
+# 一些github写作技巧
+
+1、github书写教学项目
 </span>
 
     https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github
-
-一些github写作技巧
-
-1、插入代码行，复制下列代码
+2、插入代码行，复制下列代码
 </span>
 
     </span>
 
         删
-2、添加折叠效果
+3、添加折叠效果
 </span>
 
     <details>
     <summary>折叠标题</summary>
-2-1、结尾输入
+3-1、结尾输入
     </span>
 
     </details>
-3、添加引用
+4、添加引用
 </span>
 
     ---
