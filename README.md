@@ -3,6 +3,8 @@
 ---
 [一个资源比较全的大佬Quantumult X资源库](https://github.com/deezertidal/QuantumultX-Rewrite?tab=readme-ov-file)
 
+[loon插件发布资源地址,也适用Quantumult X](https://getupnote.com/share/notes/zSn1ShBmzNYISKcTgjXE5oHMrNf2/4a3b6152-3dd3-46da-b479-8c30ef6ef8d1)
+
 ---
 ## 1、Quantumult X 一些配置介绍。
 **1、Quantumult X 策略组是什么？**
