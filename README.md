@@ -1,32 +1,4 @@
 
-# 一些github写作技巧
-
-1、github书写教学项目
-</span>
-
-    https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github
-2、插入代码行，复制下列代码
-</span>
-
-    </span>
-
-        删
-3、添加折叠效果
-</span>
-
-    <details>
-    <summary>折叠标题</summary>
-3-1、结尾输入
-    </span>
-
-    </details>
-4、添加引用
-</span>
-
-    ---
-    >
----
->引用效果展示，具体是这个样子的，
 # 一、Quantumult X  自用资源汇总
 ## 1、Quantumult X 一些配置介绍。
 **1、Quantumult X 策略组是什么？**
@@ -940,4 +912,32 @@ PPTV
     tencent100692648://
 </details>
 
+# 五、github写作技巧
+
+1、github书写教学项目
+</span>
+
+    https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github
+2、插入代码行，复制下列代码
+</span>
+
+    </span>
+
+        删
+3、添加折叠效果
+</span>
+
+    <details>
+    <summary>折叠标题</summary>
+3-1、结尾输入
+    </span>
+
+    </details>
+4、添加引用
+</span>
+
+    ---
+    >
+---
+>引用效果展示，具体是这个样子的，
 
