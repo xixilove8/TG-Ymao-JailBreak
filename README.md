@@ -1,3 +1,20 @@
+一些github写作技巧
+
+1、插入代码行，复制下列代码
+</span>
+
+    </span>
+
+        删
+2、添加折叠效果
+</span>
+
+    <details>
+    <summary>折叠标题</summary>
+2-1、结尾输入
+    </span>
+
+    </details>
 # 一、Quantumult X  自用资源汇总
 ## 1、Quantumult X 一些配置介绍。
 **1、Quantumult X 策略组是什么？**
@@ -600,6 +617,14 @@ Evernote
 </details>
 <details>
 <summary>腾讯系列</summary>
+微信扫一扫
+</span>
+
+    weixin://scanqrcode
+微信付款码
+</span>
+
+    weixin://widget/pay
 QQ
 </span>
 
@@ -678,6 +703,30 @@ QQ同步助手
 <details>
 <summary>网易系列</summary>
 
+网易新闻
+</span>
+
+    newsapp://
+网易云音乐
+</span>
+
+    orpheus://
+网易云(识别音乐)
+</span>
+
+    orpheus://recognize
+网易云（本地音乐）
+</span>
+
+    orpheus://download
+网易云（私人FM）
+</span>
+
+    orpheus://radio
+网易云（我的喜欢）
+</span>
+
+    orpheus://playlist/32778108
 网易严选 
 </span>
 
@@ -764,10 +813,6 @@ QQ同步助手
 </span>
 
     wb1462309810://
-优酷 
-</span>
-
-    youku://
 爱奇艺视频 
 </span>
 
@@ -796,30 +841,7 @@ PPTV
 </span>
 
     iReader://
-网易新闻
-</span>
 
-    newsapp://
-网易云音乐
-</span>
-
-    orpheus://
-网易云(识别音乐)
-</span>
-
-    orpheus://recognize
-网易云（本地音乐）
-</span>
-
-    orpheus://download
-网易云（私人FM）
-</span>
-
-    orpheus://radio
-网易云（我的喜欢）
-</span>
-
-    orpheus://playlist/32778108
 豆瓣FM 
 </span>
 
