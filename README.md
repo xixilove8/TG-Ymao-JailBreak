@@ -334,7 +334,7 @@ $\color{#F56C6C}{如果SID=***结尾有==记得删掉}$ <br>
 比较全的系统URL项目地址
 </span>
 
-    https://github.com/FifiTheBulldog/ios-settings-urls/blob/master/settings-urls.md
+    https://github.com/guodongxiaren/README
 
 <details>
 <summary>系统URL</summary>
