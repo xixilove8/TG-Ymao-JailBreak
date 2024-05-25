@@ -318,6 +318,18 @@ $\color{#F56C6C}{如果SID=***结尾有==记得删掉}$ <br>
 </span>
 
     unb=2211211076533;cookie2=2fae838adc772d1caf911b3cc9aaa887;USERID=1000172475694;SID=MmZhZTgzOGFkYzc3MmQxY2FmOTExYjNjYzlhYWE4ODelp6EYRxJUWXhqUrSh5xVH;wxUid=UID_FLRReNeAs1fN1SxN19bcYyPoAgVX;
+## 4、京东app
+</span>
+
+    新版京东app，代理推送：
+    地址：mbby.top
+    端口：33600
+
+</span>
+
+    旧版京东app，代理推送：
+    地址：mbby.top
+    端口：33601
 # 四、iOS URL Scheme收集整理
 比较全的系统URL项目地址
 </span>
