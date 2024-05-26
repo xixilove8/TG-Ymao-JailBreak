@@ -1,9 +1,7 @@
 
-
-
-
 # 一、个人收集Telegram频道
-## 1、Quantumult X频道
+<details>
+<summary>Quantumult X频道</summary>  
 </span>
 
     1、叮当猫iOS资源脚本分享 
@@ -26,8 +24,9 @@
     
     7、Cuttlefish自留地
     https://t.me/ddgksf2021
-
-## 2、TrollStore系列频道
+</details>
+<details>
+<summary>TrollStore频道</summary>  
 </span>
 
     1、巨魔商店pro 交流群组
@@ -59,8 +58,9 @@
    
     10、酷卡iOS破解软件
     https://t.me/gekuGou
-
-## 3、iOS越狱插件
+</details>
+<details>
+<summary>iOS越狱插件频道</summary>  
 </span>
 
     1、懒猫插件交流
@@ -86,8 +86,9 @@
    
     8、SWIGN越狱交流群｜新晋作者
     https://t.me/abox1993
-
-一些云盘影视频道
+</details>
+<details>
+<summary>云盘资源</summary>
 </span>
 
     1、影视分享 
@@ -96,6 +97,7 @@
     2、阿里云盘发布频道
     https://t.me/Aliyundrive_Share_Channel
 
+</details>
 
 # 二、薅羊毛上车抓Cookie教程记录
 <details>
