@@ -98,6 +98,12 @@
     https://t.me/Aliyundrive_Share_Channel
 
 </details>
+<details>
+<summary>安卓资源频道</summary>
+    
+	1、安卓秋名山频道
+    https://t.me/ae86_android
+</details>
 
 # 二、薅羊毛抓Cookie教程记录
 <details>
