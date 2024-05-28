@@ -106,6 +106,7 @@
 </details>
 
 # 二、薅羊毛抓Cookie教程记录
+
 <details>
 <summary>什么值得买</summary>
 </span>
@@ -120,6 +121,9 @@
 </details>
 <details>
 <summary>太平通</summary>
+- 太平通兑换肯德基等寄卖网站
+    
+    http://51maiquan.com/wap/#/home
 </span>
 
     抓ecustomer.cntaiping.com域名下
