@@ -214,7 +214,17 @@ $\color{red}{（如果SID=***结尾有==记得删除）}$
     |语法|效果|
     |---|---|
     |`[回到顶部](#readme)`|[回到顶部(#readme)|
+7、插入图片代码格式
 
+插件图片
+    
+    ![Image text](img/weibo.png)
+图片大小
+
+    <img src="/img/weibo.png" width="100px" />
+图片缩放
+
+    <img src="/img/weibo.png" alt="zoom:50%;" />
 # 四、屏蔽iOS更新和解除
 
 **没越狱用户**
