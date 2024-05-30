@@ -163,17 +163,12 @@ $\color{red}{（如果SID=***结尾有==记得删除）}$
 </details>
 <details>
 <summary>京东</summary>
+
 </span>
 
-    新版京东app：(兼容旧版)代理推送：（购物车）
+    京东app：代理推送（购物车）
     地址：mbby.top
     端口：33600
-
-</span>
-
-    旧版京东app：代理推送（客户服务）
-    地址：mbby.top
-    端口：33601
 </details>
 
 
