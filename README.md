@@ -1,10 +1,8 @@
 # 一、github写作技巧
+[github写作教程库](https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
+
 <details>
     <summary>github写作规范</summary>
-1、github书写教学项目
-</span>
-
-    https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github
 2、插入代码行，复制下列代码
 </span>
 
@@ -49,7 +47,7 @@
     <img src="/img/weibo.png" alt="zoom:50%;" />
 </details>
 
-# 一、个人收集Telegram频道
+# 二、个人收集TG频道
 <details>
 <summary>Quantumult X频道</summary>  
 </span>
@@ -155,7 +153,7 @@
     https://t.me/ae86_android
 </details>
 
-# 二、薅羊毛抓Cookie教程记录
+# 三、羊毛Cookie 教程
 
 <details>
 <summary>什么值得买</summary>
@@ -228,7 +226,7 @@
 
 
 
-# 四、屏蔽iOS更新和解除
+# 四、屏蔽iOS更新教程
 
 **没越狱用户**
 
