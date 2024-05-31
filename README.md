@@ -1,3 +1,53 @@
+# 一、github写作技巧
+<details>
+    <summary>github写作规范</summary>
+1、github书写教学项目
+</span>
+
+    https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github
+2、插入代码行，复制下列代码
+</span>
+
+    </span>
+
+        删
+3、添加折叠效果
+</span>
+
+    <details>
+    <summary>折叠标题</summary>
+3-1、结尾输入
+    </span>
+
+    </details>
+4、添加引用
+</span>
+
+    ---
+    >
+---
+>引用效果展示，具体是这个样子的。
+
+5、添加字体颜色
+
+     $\color{red}{中间显示字体颜色}$
+6、表格样式(前后各一个`增加文字阴影)
+
+    |语法|效果|
+    |---|---|
+    |`[回到顶部](#readme)`|[回到顶部(#readme)|
+7、插入图片代码格式
+
+插件图片
+    
+    ![Image text](img/weibo.png)
+图片大小
+
+    <img src="/img/weibo.png" width="100px" />
+图片缩放
+
+    <img src="/img/weibo.png" alt="zoom:50%;" />
+</details>
 
 # 一、个人收集Telegram频道
 <details>
@@ -177,54 +227,7 @@
 </details>
 
 
-# 三、github写作技巧
 
-1、github书写教学项目
-</span>
-
-    https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github
-2、插入代码行，复制下列代码
-</span>
-
-    </span>
-
-        删
-3、添加折叠效果
-</span>
-
-    <details>
-    <summary>折叠标题</summary>
-3-1、结尾输入
-    </span>
-
-    </details>
-4、添加引用
-</span>
-
-    ---
-    >
----
->引用效果展示，具体是这个样子的。
-
-5、添加字体颜色
-
-     $\color{red}{中间显示字体颜色}$
-6、表格样式(前后各一个`增加文字阴影)
-
-    |语法|效果|
-    |---|---|
-    |`[回到顶部](#readme)`|[回到顶部(#readme)|
-7、插入图片代码格式
-
-插件图片
-    
-    ![Image text](img/weibo.png)
-图片大小
-
-    <img src="/img/weibo.png" width="100px" />
-图片缩放
-
-    <img src="/img/weibo.png" alt="zoom:50%;" />
 # 四、屏蔽iOS更新和解除
 
 **没越狱用户**
