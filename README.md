@@ -143,16 +143,20 @@
    
     8、SWIGN越狱交流群｜新晋作者
     https://t.me/abox1993
+    9、越狱插件仓库频道
+
+	https://t.me/jailbreakdepot
 </details>
 <details>
 <summary>云盘影视资源频道</summary>
 </span>
 
-    1、影视分享 
-    https://t.me/movies_metamm
-   
+    1、云盘盘-阿里云盘
+    https://t.me/yunpanpan
     2、阿里云盘发布频道
     https://t.me/Aliyundrive_Share_Channel
+    3、阿里云盘资频道
+    https://t.me/shareAliyun
 
 </details>
 <details>
