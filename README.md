@@ -143,6 +143,7 @@
    
     8、SWIGN越狱交流群｜新晋作者
     https://t.me/abox1993
+    
     9、越狱插件仓库频道
     https://t.me/jailbreakdepot
 </details>
@@ -152,17 +153,22 @@
 
     1、云盘盘-阿里云盘
     https://t.me/yunpanpan
+    
     2、阿里云盘发布频道
     https://t.me/Aliyundrive_Share_Channel
+    
     3、阿里云盘资频道
     https://t.me/shareAliyun
 
 </details>
 <details>
-<summary>安卓资源分享频道</summary>
+<summary>安卓与其它的频道</summary>
     
 	1、安卓秋名山频道
     https://t.me/ae86_android
+    
+    2，开盒查人频道
+    https://t.me/heikeciadgk
 </details>
 
 # 三、羊毛Cookie 教程
