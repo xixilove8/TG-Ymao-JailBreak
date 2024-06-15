@@ -144,8 +144,7 @@
     8、SWIGN越狱交流群｜新晋作者
     https://t.me/abox1993
     9、越狱插件仓库频道
-
-	https://t.me/jailbreakdepot
+    https://t.me/jailbreakdepot
 </details>
 <details>
 <summary>云盘影视资源频道</summary>
