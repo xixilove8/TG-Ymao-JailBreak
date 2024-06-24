@@ -81,6 +81,9 @@
     
     7、Cuttlefish自留地
     https://t.me/ddgksf2021
+
+    8、枫叶脚本分享频道
+    https://t.me/afengye
 </details>
 <details>
 <summary>TrollStore巨魔频道</summary>  
@@ -169,6 +172,8 @@
     
     2，开盒查人频道
     https://t.me/heikeciadgk
+    3、频道索引&推荐
+    https://t.me/recommend3
 </details>
 
 # 三、羊毛Cookie 教程
