@@ -211,11 +211,11 @@
 
 </span>
 
-    找到抓包域名为 nt2.exe.me 进去第一个点进去
+    找到抓包域名为 nt2.ele.me 进去第一个点进去
     挨个复制
 </span>
 
-    und=
+    unb=
     cookie2=***
     USERID***
     SID=*** 
