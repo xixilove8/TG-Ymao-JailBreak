@@ -274,5 +274,16 @@
 后续重新启用直接卸载即可
 </details>
 
+# 五、巨魔去除弹窗注销进桌面
 
+去除低电量弹窗警告。和注销后自动进入桌面
+
+下载附件com.apple.springboard.plist文件
+
+然后导入到filza复制到以下文件夹
+
+
+    /var/Managed Preferences/mobile/
+
+然后重启用户空间或者重启生效！
 
