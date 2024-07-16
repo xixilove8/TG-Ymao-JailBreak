@@ -220,6 +220,7 @@
     SID=*** 
     USERID***
     wxUid=UID***
+    记得结尾添加英文分号;
 注意事项！！！
 
 ---
@@ -235,7 +236,7 @@
 类似以下格式
 </span>
 
-    少侠啊 unb=2204742233363;cookie2=1f139c2bd78f68068341a6cb0625e8cce;SID=MWYxMzljMmJkNzhmNjgwNjgzNDFhNmNiMDYyNWU4Y2Nl2vJHGhY_hlxH_ihSJVd8VA;USERID=268481450;wxUid=UID_Wy6zMh3RaMY6WHkkNDPBTFMGBgoI
+    少侠啊 unb=2204742233363;cookie2=1f139c2bd78f68068341a6cb0625e8cce;SID=MWYxMzljMmJkNzhmNjgwNjgzNDFhNmNiMDYyNWU4Y2Nl2vJHGhY_hlxH_ihSJVd8VA;USERID=268481450;wxUid=UID_Wy6zMh3RaMY6WHkkNDPBTFMGBgoI;
 </details>
 <details>
 <summary>京东软软件</summary>
