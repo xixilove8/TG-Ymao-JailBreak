@@ -89,18 +89,18 @@
 <details>
 <summary>饿了么软件</summary>
 
-</span>
 
-    找到抓包域名为 nt2.ele.me 进去第一个点进去
+找到抓包域名为 nt2.ele.me 进去第一个点进去
     挨个复制
-</span>
 
-    unb=
-    cookie2=***
-    SID=*** 
-    USERID***
-    wxUid=UID***
-    记得结尾添加英文分号;
+    账密CK格式
+    （备注后面空格）：备注 
+    cookie2=xxx;
+    USERID=xxx;
+    SID=xxx;umt=xxx;
+    phone=1手机号;
+    pwd=xxx密码;
+    （苹果用户umt数据，用x-umt的值。x-umt抓取域名：alsc-config.ele.me）
 注意事项！！！
 
 ---
