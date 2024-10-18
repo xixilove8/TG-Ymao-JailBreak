@@ -107,16 +107,6 @@
 |备注后➕空格其它地方不要任何空格|SID结尾==删除|
 |--|--|
 
----
-然后把以上内容拼接在一起。
-
-
-再找到Wxpusher消息推送平台公众号进去-点击我的-获取UID
-
-类似以下格式
-</span>
-
-    少侠啊 unb=2204742233363;cookie2=1f139c2bd78f68068341a6cb0625e8cce;SID=MWYxMzljMmJkNzhmNjgwNjgzNDFhNmNiMDYyNWU4Y2Nl2vJHGhY_hlxH_ihSJVd8VA;USERID=268481450;wxUid=UID_Wy6zMh3RaMY6WHkkNDPBTFMGBgoI;
 </details>
 <details>
 <summary>京东软软件</summary>
